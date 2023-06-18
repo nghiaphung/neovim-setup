@@ -4,7 +4,8 @@ Install tmux
     sudo apt-get install tmux
 Install tmux plugins management
     git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-
+Install xclip
+    sudo apt-get install xclip
 Put all source file into ~/.config/nvim
 
 Create a symlink to .tmux.conf
